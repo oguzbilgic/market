@@ -1,4 +1,4 @@
-# Market
+# Market [![Build Status](https://travis-ci.org/oguzbilgic/market.png?branch=master)](https://travis-ci.org/oguzbilgic/market)
 
 Package market defines structs and interfaces needed to implement an exchange client library
 
